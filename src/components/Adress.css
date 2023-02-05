@@ -1,0 +1,6 @@
+.PLACE{
+    font-size: 30px;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
